@@ -1,0 +1,17 @@
+{
+  "name": "Writer's Room",
+  "short_name": "Writers Room",
+  "description": "The whole song, in one room. Write lyrics, capture voice memos, and co-write in real time.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0C0B0E",
+  "theme_color": "#0C0B0E",
+  "lang": "en",
+  "orientation": "any",
+  "icons": [
+    { "src": "/pwa/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/pwa/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/pwa/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
