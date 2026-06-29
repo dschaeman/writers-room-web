@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "3ZKNFLNVLH.com.henriaudio.writersroom",
+        "paths": ["/join", "/join*"]
+      }
+    ]
+  }
+}
