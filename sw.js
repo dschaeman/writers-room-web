@@ -1,4 +1,4 @@
-// Writer's Room — minimal service worker.
+// Writers Only — minimal service worker.
 // Purpose: make the web app installable (standalone PWA) + a light offline shell.
 // Kept intentionally simple so a new deploy is never blocked by a stale cached bundle:
 // hashed JS/CSS assets always go to the network; only the HTML shell is cached as a

@@ -1,6 +1,6 @@
 {
-  "name": "Writer's Room",
-  "short_name": "Writers Room",
+  "name": "Writers Only",
+  "short_name": "Writers Only",
   "description": "The whole song, in one room. Write lyrics, capture voice memos, and co-write in real time.",
   "start_url": "/",
   "scope": "/",
